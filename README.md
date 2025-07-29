@@ -105,11 +105,7 @@ Confusion Matrix
 Results
 Model Performance Comparison
 Model	Accuracy	Precision	Recall	F1 Score
-VGG16	85.5%	84.0%	85.0%	84.5%
-ResNet50	87.2%	86.5%	87.0%	86.7%
-MobileNet	89.0%	88.0%	89.2%	88.6%
-InceptionV3	90.3%	89.5%	90.0%	89.7%
-EfficientNetB0	91.1%	90.5%	91.2%	90.9%
+
 Usage
 Run the Streamlit app from Colab or local:
 
